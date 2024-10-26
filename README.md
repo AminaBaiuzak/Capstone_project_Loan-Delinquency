@@ -1,4 +1,4 @@
-# Capstone project: Loan-Delinquency
+# Capstone project: Loan delinquency prediction
 In this project, a predictive model was developed to assess the likelihood of a loan becoming delinquent (90+ days overdue) within a 12-month period. The primary objective was to build the model using a training dataset (train_data.csv) and to evaluate its performance on a separate validation dataset (val_data.csv). Several key steps were undertaken, including data preparation, feature analysis, model selection, and validation. Various machine learning techniques were applied, and different models were experimented with. The performance of these models was assessed using critical evaluation metrics such as AUC-ROC, precision, recall, and F1-score. The aim was to create a reliable and generalizable model capable of accurately predicting loan delinquencies, thereby assisting financial institutions in effectively mitigating risks.
 
 _https://colab.research.google.com/drive/1zXYWtVdrTVlVQGxWTroLrqPHjTnZE3Xg?usp=sharing_
